@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPVN - Username Changer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-26 13:54+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Oliveira Ferreira <ioferreira@gmail.com>\n"
+"Language-Team: link2caro <contact@link2caro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk\n"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:28
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:83
+msgid "Change Your Username"
+msgstr "Mude seu nome de usuário"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:28
+msgid "Change Username"
+msgstr "Mudar nome de usuário"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:41
+msgid "The entered username is used by another user, please choose a different one!"
+msgstr "O nome de usuário inserido está em uso, por favor escolha outro diferente!"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:68
+#, php-format
+msgid "Your username was changed to <em>%s</em>. Please <a href=\"%s\">log in</a> again with this username now."
+msgstr "Seu nome de usuário foi mudado para <em>%s</em>. Por favor faça <a href=\"%s\">login</a> com este nome de usuário agora."
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:72
+msgid "A database error occured : "
+msgstr "Ocorreu um erro no banco de dados :"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:78
+msgid "The new username is identic to the old one, so no change was made!"
+msgstr "O novo nome de usuário é idêntico ao antigo, assim nenhuma mudança foi feita!"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:87
+msgid "Current Username"
+msgstr "Nome de usuário atual"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:91
+msgid "New Username"
+msgstr "Novo nome de usuário"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:95
+msgid "After clicking <strong>Save Changes</strong>, you will need to log in with your new username."
+msgstr "Depois de clicar em <strong>Salvar mudanças</strong>, você precisará efetuar login com seu novo nome de usuário."
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:96
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:116
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:100
+msgid "Settings"
+msgstr "Configurações"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:104
+msgid "Users must have at least this level to be able to change their username"
+msgstr "Usuários devem ter pelo menos este nível para poderem mudar seus nomes de usuário"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:107
+msgid "Administrator"
+msgstr "Administrador"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:108
+msgid "Editor"
+msgstr "Editor"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:109
+msgid "Author"
+msgstr "Autor"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:110
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:111
+msgid "Subscriber"
+msgstr "Assinante"
+

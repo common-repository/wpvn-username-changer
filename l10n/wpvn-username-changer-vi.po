@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPVN - Username Changer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-26 13:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Minh-Quân TRAN <contact@link2caro.com>\n"
+"Language-Team: link2caro <contact@link2caro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Vietnamese\n"
+"X-Poedit-Country: VIET NAM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk\n"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:28
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:83
+msgid "Change Your Username"
+msgstr "Đổi tên đăng nhập của bạn"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:28
+msgid "Change Username"
+msgstr "Đổi tên đăng nhập"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:41
+msgid "The entered username is used by another user, please choose a different one!"
+msgstr "Tên đăng nhập này đã được sử dụng bởi một thành viên khác, hãy chọn tên khác!"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:68
+#, php-format
+msgid "Your username was changed to <em>%s</em>. Please <a href=\"%s\">log in</a> again with this username now."
+msgstr "Tên đăng nhập của bạn đã được chuyển thành <em>%s</em>. Hãy <a href=\"%s\">đăng nhập</a> lại với tên đăng nhập này!"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:72
+msgid "A database error occured : "
+msgstr "Lỗi cơ sở dữ liệu : "
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:78
+msgid "The new username is identic to the old one, so no change was made!"
+msgstr "Tên đăng nhập mới giống với tên đăng nhập hiện tại, không có thay đổi nào được lưu lại!"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:87
+msgid "Current Username"
+msgstr "Tên đăng nhập hiện tại"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:91
+msgid "New Username"
+msgstr "Tên đăng nhập mới"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:95
+msgid "After clicking <strong>Save Changes</strong>, you will need to log in with your new username."
+msgstr "Sau khi ấn <strong>Lưu thay đổi</strong>, bạn sẽ phải đăng nhập lại với tên đăng nhập mới."
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:96
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:116
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:100
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:104
+msgid "Users must have at least this level to be able to change their username"
+msgstr "Thành viên phải có từ cấp bậc này trở lên để được phép thay đổi tên đăng nhập"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:107
+msgid "Administrator"
+msgstr "Quản lý"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:108
+msgid "Editor"
+msgstr "Biên tập viên"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:109
+msgid "Author"
+msgstr "Tác giả"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:110
+msgid "Contributor"
+msgstr "Cộng tác viên"
+
+#: /Volumes/Data/Workspace/project/wordpress/plugins/wpvn-username-changer/trunk/wpvn-username-changer.php:111
+msgid "Subscriber"
+msgstr "Thành viên đăng kí"
+
+#~ msgid ""
+#~ "Please refer to the Codex to know more about user level. Leave blank for "
+#~ "default, which is \"edit_users\"."
+#~ msgstr ""
+#~ "Hãy đọc thêm trong Codex để biết thêm về cấp bậc thành viên. Để trống để "
+#~ "sử dụng cài đặt mặc định \"edit_users\"."
+
